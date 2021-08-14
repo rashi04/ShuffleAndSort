@@ -90,7 +90,7 @@
 
  button:active {
    top: 5px;
-   box-shadow: none !important;
+   box-shadow: none;
  }
 
  @media screen and  (min-width: 375px) and (max-width: 760px) {
